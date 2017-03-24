@@ -1,0 +1,36 @@
+img {
+    width: 100px;
+    height: 300px;
+}
+div {
+    width: 1200px;
+    height: 100px;
+    background-color: blue;
+}
+.yellow{
+    background-color: yellow;
+  
+
+}
+#liga {
+    width: 600px;
+}
+#liga2{
+    width: 600px;
+}
+#bully {
+    width: 600px;
+}
+#bully2 {
+    width: 600px;
+}
+body {
+    background-color: rgb(95,158,160);
+}
+ul li a{
+    color: white;
+}
+ul li{
+    display: inline-block;
+    font-size 20px
+}
